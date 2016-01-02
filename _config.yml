@@ -1,0 +1,28 @@
+name: bits
+favicon: null
+layout_spectrum: 0.9831619739998132
+typography_spectrum: 0.4245978551916778
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8266584440134466
+  lightness: 0.4006018624641001
+  saturation: 0.19309554947540164
+  rhythmicContrast: 0.3487380004953593
+purpose: []
